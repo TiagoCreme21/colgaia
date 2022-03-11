@@ -20,13 +20,13 @@
                 Case 3
                     If Len(frase1) > Len(frase2) And Len(frase1) > Len(frase3) Then
                         Console.WriteLine("A frase 1 á a maior")
-                    EndIf   
+                    End If
                     If Len(frase2) > Len(frase1) And Len(frase2) > Len(frase3) Then
-                        Console.WriteLine("A frase 2 é a maior")   
-                    EndIf
+                        Console.WriteLine("A frase 2 é a maior")
+                    End If
                     If Len(frase3) > Len(frase1) And Len(frase3) > Len(frase2) Then
                         Console.WriteLine("A frase 3 é a maior")
-                    EndIf
+                    End If
                 Case 4
                     'Fazer o "case4"
             End Select

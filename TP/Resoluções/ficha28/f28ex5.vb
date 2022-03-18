@@ -15,6 +15,4 @@
 
         Next
 
-    End Sub
-
 End Module
